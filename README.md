@@ -1,4 +1,4 @@
-# Not-So-Product Repository
+# Not-So-Product
 
 Welcome to the Not-So-Product repository! 🚀
 
