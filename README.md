@@ -4,7 +4,7 @@ Welcome to the Not-So-Product repository! 🚀
 
 ## Introduction
 
-Have you ever wondered what the world would be like if your favorite products had quirky, unconventional alternatives? Well, wonder no more! The Not-So-Product repository is a collection of alternative projects that reimagine popular products in unique and unexpected ways. This repository is a collaborative effort between me and my friends, and we can't wait to share our creative and not-so-serious take on various products.
+Have you ever wondered what the world would be like if your favorite products had quirky, unconventional alternatives? Well, wonder no more! The Not-So-Product repository is a collection of alternative projects that reimagine popular products in unique and unexpected ways. This repository will be a collaborative effort between me and my friends, and we can't wait to share our creative and not-so-serious take on various products.
 
 ## What to Expect
 
